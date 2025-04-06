@@ -48,6 +48,8 @@ const LandingPage = () => {
         <meta name="twitter:card" content="summary_large_image" />
 
         <meta name="google-site-verification" content="u3QmJleMgBu4Ke6BoW1RVrtc4BOIrNm-g3llDnwLQnk" />
+        <meta name="robots" content="index, follow" />
+
       </Helmet>
 
       {/* Landing Section */}
