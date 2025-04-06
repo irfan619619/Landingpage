@@ -1,0 +1,124 @@
+{
+    "products": [
+      
+      {
+        "id": 1,
+        "name": "Classic Analog Watch",
+        "category": "watch",
+        "price": "₹999",
+        "image": "https://i5.walmartimages.com/asr/2b0122c9-6ce7-463c-b678-552efd339248_1.728ffdd12f57f7c23d4ea03b5f7f1765.jpeg"
+      },
+      {
+        "id": 2,
+        "name": "Digital Fitness Tracker",
+        "category": "watch",
+        "price": "₹1299",
+        "image": "https://cdna.lystit.com/photos/737f-2016/03/17/g-shock-silver-mens-analog-digital-silver-tone-resin-bracelet-watch-59x52mm-gst210d-1a-product-1-327567217-normal.jpeg"
+      },
+      {
+        "id": 3,
+        "name": "Luxury Leather Watch",
+        "category": "watch",
+        "price": "₹1899",
+        "image": "https://i5.walmartimages.com/asr/990ae743-bfaf-45ec-9213-cfeaec66fcad_1.331a9f6f4c7c2bfe4caf371a1dd305bf.jpeg"
+      },
+      {
+        "id": 4,
+        "name": "Minimalist Black Watch",
+        "category": "watch",
+        "price": "₹799",
+        "image": "https://gshock.casio.com/content/casio/locales/in/en/brands/gshock/_identity/_jcr_content/root/responsivegrid/container_1689197747_354219125/container_1570219436/container/image.casiocoreimg.jpeg/1716334645927/dw-8800bj.jpeg"
+      },
+  
+      
+      {
+        "id": 5,
+        "name": "White Running Shoes",
+        "category": "shoes",
+        "price": "₹1599",
+        "image": "https://images.sportsdirect.com/images/imgzoom/12/12121440_xxl.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Black Sneakers",
+        "category": "shoes",
+        "price": "₹1799",
+        "image": "https://images.sportsdirect.com/images/imgzoom/12/12121440_xxl.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Casual Canvas Shoes",
+        "category": "shoes",
+        "price": "₹999",
+        "image": "https://images.sportsdirect.com/images/imgzoom/12/12121440_xxl.jpg"
+      },
+      {
+        "id": 8,
+        "name": "Men’s Slip-on Shoes",
+        "category": "shoes",
+        "price": "₹1199",
+        "image": "https://images.sportsdirect.com/images/imgzoom/12/12121440_xxl.jpg"
+      },
+  
+      
+      {
+        "id": 9,
+        "name": "Round Frame Glasses",
+        "category": "glasses",
+        "price": "₹499",
+        "image": "https://images.specsavers.com/glasses-images/32834291-front-940x529.jpg"
+      },
+      {
+        "id": 10,
+        "name": "Aviator Sunglasses",
+        "category": "glasses",
+        "price": "₹899",
+        "image": "https://images.specsavers.com/glasses-images/32834291-front-940x529.jpg"
+      },
+      {
+        "id": 11,
+        "name": "Retro Round Glasses",
+        "category": "glasses",
+        "price": "₹649",
+        "image": "https://images.specsavers.com/glasses-images/32834291-front-940x529.jpg"
+      },
+      {
+        "id": 12,
+        "name": "Wayfarer Sunglasses",
+        "category": "glasses",
+        "price": "₹799",
+        "image": "https://images.specsavers.com/glasses-images/32834291-front-940x529.jpg"
+      },
+  
+      
+      {
+        "id": 13,
+        "name": "Black Baseball Cap",
+        "category": "cap",
+        "price": "₹299",
+        "image": "https://m.media-amazon.com/images/I/61dTSYlxfBL._AC_SL1500_.jpg"
+      },
+      {
+        "id": 14,
+        "name": "Vintage Denim Cap",
+        "category": "cap",
+        "price": "₹349",
+        "image": "https://m.media-amazon.com/images/I/61dTSYlxfBL._AC_SL1500_.jpg"
+      },
+      {
+        "id": 15,
+        "name": "Flat Brim Cap",
+        "category": "cap",
+        "price": "₹399",
+        "image": "https://m.media-amazon.com/images/I/61dTSYlxfBL._AC_SL1500_.jpg"
+      },
+      {
+        "id": 16,
+        "name": "Classic Red Cap",
+        "category": "cap",
+        "price": "₹279",
+        "image": "https://m.media-amazon.com/images/I/61dTSYlxfBL._AC_SL1500_.jpg"
+      }
+    ]
+  }
+  
