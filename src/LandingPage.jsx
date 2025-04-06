@@ -46,6 +46,8 @@ const LandingPage = () => {
         />
         <meta property="og:url" content="https://yourwebsite.com" />
         <meta name="twitter:card" content="summary_large_image" />
+
+        <meta name="google-site-verification" content="u3QmJleMgBu4Ke6BoW1RVrtc4BOIrNm-g3llDnwLQnk" />
       </Helmet>
 
       {/* Landing Section */}
