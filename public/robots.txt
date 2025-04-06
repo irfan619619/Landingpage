@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: https://landingpage-dun-mu.vercel.app/sitemap.xml
