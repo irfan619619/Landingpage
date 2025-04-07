@@ -35,6 +35,16 @@ const LandingPage = () => {
 
         <meta name="google-site-verification" content="u3QmJleMgBu4Ke6BoW1RVrtc4BOIrNm-g3llDnwLQnk" />
         <meta name="robots" content="index, follow" />
+
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-2F65P2Q600"></script>
+  <script>
+    {`
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-2F65P2Q600');
+    `}
+  </script>
       </Helmet>
 
       {/* ✅ Background Image from /public/cover.jpg */}
